@@ -5,5 +5,5 @@ import com.github.fabiomaffioletti.firebase.repository.DefaultFirebaseRealtimeDa
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class OrderRepository extends DefaultFirebaseRealtimeDatabaseRepository<OrderFireBaseObject, Long> {
+public class OrderRepository extends DefaultFirebaseRealtimeDatabaseRepository<OrderFireBaseObject, String> {
 }

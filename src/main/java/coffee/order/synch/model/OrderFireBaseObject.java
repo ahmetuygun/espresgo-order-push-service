@@ -23,5 +23,6 @@ public class OrderFireBaseObject {
     private String orderDate;
     private String orderItemNames;
     private String addessText;
+    private String statusString;
 
 }

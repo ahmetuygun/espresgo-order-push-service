@@ -18,5 +18,7 @@ public class OrderRequest {
     private String orderDate;
     private String orderItemNames;
     private String addessText;
+    private String statusString;
+
 
 }
